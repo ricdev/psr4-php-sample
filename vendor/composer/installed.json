@@ -1,0 +1,44 @@
+[
+    {
+        "name": "ibuffer/faceplusplus",
+        "version": "0.0.03",
+        "version_normalized": "0.0.03.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ibuffer/faceplusplus.git",
+            "reference": "7fa98cb1595c8fe079e083100a7ba44ebe9dece3"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ibuffer/faceplusplus/zipball/7fa98cb1595c8fe079e083100a7ba44ebe9dece3",
+            "reference": "7fa98cb1595c8fe079e083100a7ba44ebe9dece3",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "time": "2015-05-25 03:35:46",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Ibuffer\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Lynn",
+                "email": "lynn1212@vip.qq.com"
+            }
+        ],
+        "description": "Face++ SDK",
+        "keywords": [
+            "faceplusplus",
+            "sdk"
+        ]
+    }
+]

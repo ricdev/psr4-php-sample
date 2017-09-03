@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "f97d264aeb08093f81b8ab32ca1be65a",
+    "content-hash": "eaa2db5845aabf9f47d7cea19fbfd4d8",
+    "packages": [
+        {
+            "name": "ibuffer/faceplusplus",
+            "version": "0.0.03",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ibuffer/faceplusplus.git",
+                "reference": "7fa98cb1595c8fe079e083100a7ba44ebe9dece3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ibuffer/faceplusplus/zipball/7fa98cb1595c8fe079e083100a7ba44ebe9dece3",
+                "reference": "7fa98cb1595c8fe079e083100a7ba44ebe9dece3",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Ibuffer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Lynn",
+                    "email": "lynn1212@vip.qq.com"
+                }
+            ],
+            "description": "Face++ SDK",
+            "keywords": [
+                "faceplusplus",
+                "sdk"
+            ],
+            "time": "2015-05-25 03:35:46"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.4.0"
+    },
+    "platform-dev": []
+}
